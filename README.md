@@ -23,3 +23,6 @@ https://github.com/zmkfirmware
 ### Leeloo
 https://clicketysplit.ca/pages/leeloo
 https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/leeloo
+
+### Void Ergo
+https://github.com/victorlucachi/void_ergo
