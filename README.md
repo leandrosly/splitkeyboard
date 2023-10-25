@@ -11,8 +11,15 @@ https://docs.google.com/spreadsheets/d/1R7HbWlUToqxME6spGiBuv7GGNC4VNMBPdS0U9fEQ
 https://files.seeedstudio.com/wiki/XIAO/Seeed-Studio-XIAO-Series-SOM-Datasheet.pdf
 
 ### Totem
+https://github.com/leandrosly/splitkeyboard-totem
 https://github.com/GEIGEIGEIST?tab=repositories
+https://www.youtube.com/watch?v=YwsutNf1WRA
+https://www.hackster.io/geist/totem-a-tiny-splitkeyboard-with-splay-cb2e43
 
 ### ZMK
 https://zmk.dev/docs
 https://github.com/zmkfirmware
+
+### Leeloo
+https://clicketysplit.ca/pages/leeloo
+https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/leeloo
