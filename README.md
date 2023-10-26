@@ -26,3 +26,7 @@ https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/leeloo
 
 ### Void Ergo
 https://github.com/victorlucachi/void_ergo
+
+### Steno
+https://www.openstenoproject.org/plover/
+https://github.com/qmk/qmk_firmware/blob/master/docs/feature_stenography.md
