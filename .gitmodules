@@ -1,0 +1,6 @@
+[submodule "Totem Rep Fork"]
+	path = Totem Rep Fork
+	url = git@github.com:leandrosly/splitkeyboard-totem.git
+[submodule "ZMK Rep Fork"]
+	path = ZMK Rep Fork
+	url = git@github.com:leandrosly/splitkeyboard-zmk.git
