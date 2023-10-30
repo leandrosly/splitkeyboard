@@ -7,3 +7,6 @@
 [submodule "ZMK Config by EigaTech Rep Fork"]
 	path = ZMK Config by EigaTech Rep Fork
 	url = git@github.com:leandrosly/splitkeyboard-zmk-config-by-eigatech.git
+[submodule "Keycap Playground Rep Fork"]
+	path = Keycap Playground Rep Fork
+	url = git@github.com:leandrosly/splitkeyboard-keycap-playground.git
