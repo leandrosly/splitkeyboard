@@ -16,6 +16,7 @@ http://www.keyboard-layout-editor.com/#/
 
 ### XIAO
 https://files.seeedstudio.com/wiki/XIAO/Seeed-Studio-XIAO-Series-SOM-Datasheet.pdf
+https://www.printables.com/model/522586-seeed-xiao-ble-case
 
 ### Totem
 https://github.com/leandrosly/splitkeyboard-totem
