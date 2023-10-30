@@ -4,3 +4,6 @@
 [submodule "ZMK Rep Fork"]
 	path = ZMK Rep Fork
 	url = git@github.com:leandrosly/splitkeyboard-zmk.git
+[submodule "ZMK Config by EigaTech Rep Fork"]
+	path = ZMK Config by EigaTech Rep Fork
+	url = git@github.com:leandrosly/splitkeyboard-zmk-config-by-eigatech.git
