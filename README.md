@@ -13,6 +13,7 @@ https://kbd.news/The-Mosquito-1026.html
 https://golem.hu/board/Parergon-V2-477.html
 https://github.com/yunjieshi/ya36
 http://www.keyboard-layout-editor.com/#/
+https://kbfirmware.com/
 
 ### XIAO
 https://files.seeedstudio.com/wiki/XIAO/Seeed-Studio-XIAO-Series-SOM-Datasheet.pdf
