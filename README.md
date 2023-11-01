@@ -48,6 +48,11 @@ https://summivox.wordpress.com/2016/06/03/keyboard-matrix-scanning-and-debouncin
 (https://web.archive.org/web/20180711011642/https://summivox.wordpress.com/2016/06/03/keyboard-matrix-scanning-and-debouncing/)  
 https://www.youtube.com/watch?v=975CS27w16w  
 
+### Practicing
+https://monkeytype.com/  
+1006-sup-tubo.nc  
+https://10fastfingers.com/typing-test/english  
+
 ### Amazon UK
 [Ranked Gateron ks-27 Low Profile Key Switches for Mechanical Gaming Keyboards | Plate Mounted (Gateron Brown, 65 Pcs) )](https://www.amazon.co.uk/Gateron-ks-27-Switches-Mechanical-Keyboards/dp/B09WYJC2GY/ref=sr_1_20?crid=24QOBAFE4WPQ2&keywords=mechanical%2Bswitches&qid=1698319714&sprefix=mechanical%2Bswitches%2Caps%2C301&sr=8-20&th=1)  
 [Key Low Optical Switch 87 pcs Brown | Z22](https://www.amazon.co.uk/Keychron-Low-Profile-Optical-Orange-Switch/dp/B09F94YH4D/ref=sr_1_19?crid=F07CZDDULZZW&keywords=low%2Bprofile%2Bswitch&qid=1698321583&sprefix=low%2Bprofile%2Bswit%2Caps%2C366&sr=8-19&th=1)  
