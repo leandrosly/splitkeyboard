@@ -32,6 +32,7 @@ https://www.hackster.io/geist/totem-a-tiny-splitkeyboard-with-splay-cb2e43
 https://zmk.dev/docs  
 https://github.com/zmkfirmware  
 https://precondition.github.io/home-row-mods  
+https://github.com/ebastler/zmk-designguide  
 
 ### Leeloo
 https://clicketysplit.ca/pages/leeloo  
