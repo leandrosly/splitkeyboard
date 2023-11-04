@@ -10,3 +10,6 @@
 [submodule "Keycap Playground Rep Fork"]
 	path = Keycap Playground Rep Fork
 	url = git@github.com:leandrosly/splitkeyboard-keycap-playground.git
+[submodule "ZMK Config Zero"]
+	path = ZMK Config Zero
+	url = git@github.com:leandrosly/splitkeyboard-zmk-config-zero.git
