@@ -17,6 +17,7 @@ http://www.keyboard-layout-editor.com/#/
 https://kbfirmware.com/  
 https://en.key-test.ru/  
 https://keyboardchecker.com/  
+https://www.keymapper.dev/layout  
 
 ### XIAO
 https://files.seeedstudio.com/wiki/XIAO/Seeed-Studio-XIAO-Series-SOM-Datasheet.pdf  
