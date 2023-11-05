@@ -4,6 +4,7 @@
 ### Layouts
 #### Keymap Editor - Nick Coutsos
 [![imagem keymap editor](imagens/readme-app-keymap-editor.jpg)](https://nickcoutsos.github.io/keymap-editor/)  
+[![imagem keymap layout tools](imagens/readme-app-keymap-layout-tools.jpg)](https://nickcoutsos.github.io/keymap-layout-tools/)
 #### Keymapper - Theo Therone
 [![imagem keymapper](imagens/readme-app-keymapper.jpg)](https://www.keymapper.dev/layout)  
 #### Keyboard Layout Editor - Ian Prest
