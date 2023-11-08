@@ -13,3 +13,6 @@
 [submodule "ZMK Config Zero"]
 	path = ZMK Config Zero
 	url = git@github.com:leandrosly/splitkeyboard-zmk-config-zero.git
+[submodule "Zephyr Rep Fork"]
+	path = Zephyr Rep Fork
+	url = git@github.com:leandrosly/splitkeyboard-zephyr.git
