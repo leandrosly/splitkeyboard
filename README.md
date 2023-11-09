@@ -1,5 +1,24 @@
 # splitkeyboard
 
+## Decidido
+- Split wifi + Dongle
+- Layout do Totem com 1 tecla a mais e encoder nos 2 lados
+- Topo de acrilico/policarbonato para fixar as switches
+- Placa Seeed XIAO nR.... BLE
+- Encoders tipo de mouse
+- Sem LEDs para efeitos
+- Utilizar o LED da placa para informar layers, etc
+
+## Decidir
+- Bateria de 200mAh?
+- Posição da placa, bateria e encoder?
+- Formato geral
+- Madeira, 3d print ou uma segunda placa de acrilico?
+
+## Descobrir
+- Como controlar o LED da placa?
+- É possivel adicionar switches e outros comandos no dongle?
+
 ## Links úteis
 ### Layouts
 #### Keymap Editor - Nick Coutsos
