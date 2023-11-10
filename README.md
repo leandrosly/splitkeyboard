@@ -11,6 +11,7 @@
 
 ## Fazer
 - Organizar matriz
+- Tentar adicionar encoder
 
 ## Decidir
 - Distribuição das teclas, macros, layers, etc
