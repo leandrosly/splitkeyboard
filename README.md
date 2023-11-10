@@ -9,7 +9,11 @@
 - Sem LEDs para efeitos
 - Utilizar o LED da placa para informar layers, etc
 
+## Fazer
+- Organizar matriz
+
 ## Decidir
+- Distribuição das teclas, macros, layers, etc
 - Bateria de 200mAh?
 - Posição da placa, bateria e encoder?
 - Formato geral
