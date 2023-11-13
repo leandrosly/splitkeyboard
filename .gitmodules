@@ -19,3 +19,6 @@
 [submodule "ZMK Config TMP"]
 	path = ZMK Config TMP
 	url = git@github.com:leandrosly/splitkeyboard-zmk-config-tmp.git
+[submodule "ZMK Config Faw36"]
+	path = ZMK Config Faw36
+	url = git@github.com:leandrosly/zmk-config-faw36.git
