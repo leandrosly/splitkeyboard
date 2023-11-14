@@ -95,6 +95,9 @@ https://github.com/victorlucachi/void_ergo
 https://www.openstenoproject.org/plover/  
 https://github.com/qmk/qmk_firmware/blob/master/docs/feature_stenography.md  
 
+### Hot Swap
+https://github.com/stingray127/handwirehotswap  
+
 ### Matrix switches
 https://summivox.wordpress.com/2016/06/03/keyboard-matrix-scanning-and-debouncing/  
 (https://web.archive.org/web/20180711011642/https://summivox.wordpress.com/2016/06/03/keyboard-matrix-scanning-and-debouncing/)  
