@@ -46,6 +46,9 @@ https://kbfirmware.com/
 https://en.key-test.ru/  
 https://keyboardchecker.com/  
 
+### Discussão interessante sobre NFC pins e encoder
+https://www.reddit.com/r/olkb/comments/11hl7is/extra_gpio_on_seeed_xiao_controllers_via_zmk/
+
 ### XIAO
 https://files.seeedstudio.com/wiki/XIAO/Seeed-Studio-XIAO-Series-SOM-Datasheet.pdf  
 https://www.printables.com/model/522586-seeed-xiao-ble-case  
@@ -65,6 +68,25 @@ https://github.com/ebastler/zmk-designguide
 ### Leeloo
 https://clicketysplit.ca/pages/leeloo  
 https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/leeloo  
+
+### M4 2x2 Lego (Xiao encoder)
+https://mlego.elena.space/m4/#m4-2x2-in-lego  
+https://github.com/alinelena/mlego-zmk  
+
+### Faw36 (Xiao encoder)
+https://github.com/Germain-Gadel/faw36  
+https://github.com/Germain-Gadel/zmk-config-faw36  
+
+### Klein (Xiao encoder)
+https://www.hackster.io/nosnk/klein-a-wireless-ergonomical-keyboard-b4cd9a  
+https://github.com/snsten/Klein  
+https://github.com/snsten/Klein-zmk  
+
+### Corne-Xiao (encoder)
+https://github.com/friction07/corne-xiao  
+
+### Xodobox (xiao encoder)
+https://www.hackster.io/seanqinxiao/xobdox-a-40-ish-split-wireless-keyboard-f7e3a8  
 
 ### Void Ergo
 https://github.com/victorlucachi/void_ergo  
