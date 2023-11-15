@@ -22,3 +22,9 @@
 [submodule "ZMK Config Faw36"]
 	path = ZMK Config Faw36
 	url = git@github.com:leandrosly/zmk-config-faw36.git
+[submodule "ZMK Config Klein"]
+	path = ZMK Config Klein
+	url = git@github.com:leandrosly/splitkeyboard-zmk-config-Klein.git
+[submodule "ZMK Config MLego"]
+	path = ZMK Config MLego
+	url = git@github.com:leandrosly/splitkeyboard-zmk-config-mlego.git
