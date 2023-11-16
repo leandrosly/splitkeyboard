@@ -45,6 +45,7 @@ https://github.com/yunjieshi/ya36
 https://kbfirmware.com/  
 https://en.key-test.ru/  
 https://keyboardchecker.com/  
+https://matt3o.com/anatomy-of-a-keyboard/  
 
 ### Discussão interessante sobre NFC pins e encoder
 https://www.reddit.com/r/olkb/comments/11hl7is/extra_gpio_on_seeed_xiao_controllers_via_zmk/
